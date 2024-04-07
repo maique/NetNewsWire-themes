@@ -1,7 +1,10 @@
+@import url(https://fonts.bunny.net/css?family=atkinson-hyperlegible:400,400i,700,700i);
+
 body {
 	margin-left: auto;
 	margin-right: auto;
-	font-family: system-ui, ui-serif;
+	font-family: 'Atkinson Hyperlegible', sans-serif;
+  font-size: 20px;
 	word-wrap: break-word;
 	max-width: 38em;
 	background: var(--background);
