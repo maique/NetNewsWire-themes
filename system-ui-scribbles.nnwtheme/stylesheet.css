@@ -57,7 +57,7 @@ body {
 	--table-cell-border-color: lightgray;
 	--text-color: rgb(68, 68, 68);
 	--faded: #bbb;
-	--background: #fdfdfd;
+	--background: #334155;
 	--light-bg: #EBEBEA;
 	--shadow: lightgray;
 	--link-color: #0054D2;
@@ -74,7 +74,7 @@ body {
 		--table-cell-border-color: dimgray;
 		--text-color: rgb(220, 220, 220);
 		--faded: #666;
-		--background: #222;
+		--background: #334155;
 		--light-bg: #454746;
 		--shadow: #555;
 		--link-color: #3F78C6;
