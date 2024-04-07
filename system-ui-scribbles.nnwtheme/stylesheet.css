@@ -65,7 +65,7 @@ body {
 
 @media(prefers-color-scheme: dark) {
 	:root {
-		--header-color: rgba(94, 158, 244, 1);
+		--header-color: #f7bc09;
 		--body-code-color: #d5d5fd5;
 		--system-message-color: #5f5f5f;
 		--feedlink-color: rgba(94, 158, 244, 1);
