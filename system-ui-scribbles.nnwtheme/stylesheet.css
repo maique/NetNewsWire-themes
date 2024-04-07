@@ -69,15 +69,15 @@ body {
 		--body-code-color: #d5d5fd5;
 		--system-message-color: #5f5f5f;
 		--feedlink-color: rgba(94, 158, 244, 1);
-		--article-title-color: #e0e0e0;
-		--article-date-color: rgba(255, 255, 255, 0.5);
+		--article-title-color: #f7bc09;
+		--article-date-color: #f7bc09;
 		--table-cell-border-color: dimgray;
 		--text-color: rgb(220, 220, 220);
 		--faded: #666;
 		--background: #1e293b;
 		--light-bg: #454746;
 		--shadow: #555;
-		--link-color: #3F78C6;
+		--link-color: #f33e5d;
 	}
 }
 
