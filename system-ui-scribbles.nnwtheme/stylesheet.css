@@ -52,8 +52,8 @@ body {
 	--body-code-color: rgba(38,38,38);
 	--system-message-color: #cbcbcb;
 	--feedlink-color: rgba(255, 0, 0, 0.6);
-	--article-title-color: #333;
-	--article-date-color: rgba(0, 0, 0, 0.3);
+	--article-title-color: #f7bc09;
+	--article-date-color: #f7bc09;
 	--table-cell-border-color: lightgray;
 	--text-color: rgb(68, 68, 68);
 	--faded: #bbb;
